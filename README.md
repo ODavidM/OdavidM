@@ -1,7 +1,7 @@
 <h1> Hola Soy David 👋 </h1>    
-<p align="center">
-    <img width="200" src="/Odavidm.png">
-</p>
+
+<img width="200" src="/Odavidm.png">
+
 
 <!--
 **ODavidM/OdavidM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
