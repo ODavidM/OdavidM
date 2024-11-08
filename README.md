@@ -1,6 +1,6 @@
 <h1> Hola Soy David 👋 </h1>    
 <p align="center">
-    <img width="200" src="https://photos.google.com/album/AF1QipMgMx_l6Nj1v7M1J7UHfhixri-XDl-p7pQckyTr/photo/AF1QipMmGgA4sqRCcCH51okSTo8JG_zSPrGv1LBuuCCx">
+    <img width="200" src="/Odavidm.png">
 </p>
 
 <!--
