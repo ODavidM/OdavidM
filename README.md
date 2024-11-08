@@ -1,5 +1,7 @@
 # Hola Soy David 👋
-<img align="center" alt="Logo" src="https://drive.google.com/file/d/1CD6la-e2kf2yOA1T7hJh1q9fmM1JEVDN/view?usp=drive_link" />
+<p align="center">
+    <img width="200" src="https://drive.google.com/file/d/1CD6la-e2kf2yOA1T7hJh1q9fmM1JEVDN/view?usp=drive_link">
+</p>
 
 <!--
 **ODavidM/OdavidM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
