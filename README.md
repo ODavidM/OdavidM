@@ -5,6 +5,30 @@
 </div>
 
 
+## Proyectos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">juego adivina numero</h3>
+<div align="center">
+<a href="https://odavidm.github.io/Juego-adivina-numero/" target="_blank"></a>                                                                               
+</td>
+
+<tr>
+<td width="50%">
+<h3 align="center">Encriptador de texto</h3>
+<div align="center">
+<a href="https://odavidm.github.io/Encrypt/" target="_blank"></a>                                                                               
+</td>
+
+</table> 
+
+
+
+
+
+
+
 <!--
 **ODavidM/OdavidM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
