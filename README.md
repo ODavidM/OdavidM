@@ -1,9 +1,8 @@
 
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://odavidm.github.io/Portafolio/"> >ODAVIDM</a> 👋</h1>
-</div>
 <img src="/Odavidm.png" width= "50%" height= "30%" align="center" >
-
+</div>
 
 
 <!--
