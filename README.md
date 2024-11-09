@@ -1,8 +1,10 @@
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://odavidm.github.io/Portafolio/">ODAVIDM</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://odavidm.github.io/Portafolio/" width= "30" height= "30"> >ODAVIDM</a> 👋</h1>
 </div>
 <img src="/Odavidm.png">
+
+
 
 <!--
 **ODavidM/OdavidM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
