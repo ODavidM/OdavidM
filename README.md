@@ -5,23 +5,14 @@
 </div>
 
 
-## Proyectos
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">juego adivina numero</h3>
-<div align="center">
-<a href="https://odavidm.github.io/Juego-adivina-numero/" target="_blank"></a>                                                                               
-</td>
+### ⚙️ &nbsp;GitHub Analytics
 
-<tr>
-<td width="50%">
-<h3 align="center">Encriptador de texto</h3>
-<div align="center">
-<a href="https://odavidm.github.io/Encrypt/" target="_blank"></a>                                                                               
-</td>
-
-</table> 
+<p align="center">
+<a href="https://github.com/ODavidM">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ODavidM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ODavidM&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
