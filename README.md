@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://odavidm.github.io/Portafolio/"> >ODAVIDM</a> 👋</h1>
-<img src="/Odavidm.png" width= "50%" height= "30%" align="center" >
+<img src="/Odavidm.png" width= "70%" height= "30%" align="center" >
 </div>
 
 
